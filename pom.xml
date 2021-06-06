@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>overview</module>
+        <module>advanced</module>
     </modules>
 
     <groupId>com.xschen.spring.jpa</groupId>
